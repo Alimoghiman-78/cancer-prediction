@@ -35,7 +35,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn jupyter
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/cancer-prediction.git
+   git clone https://github.com/Alimoghiman-78/cancer-prediction
    cd cancer-prediction
    ```
 
